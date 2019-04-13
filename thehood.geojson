@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Alta Vista",
-        "Community": "Arvada"
+        "Community": "Arvada",
+        "url": "https://arvada.org"
       },
       "geometry": {
         "type": "Polygon",
