@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Alta Vista"
+        "Name": "Alta Vista",
+        "Community": "Arvada"
       },
       "geometry": {
         "type": "Polygon",
